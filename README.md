@@ -1,2 +1,1 @@
-# EthanRife.github.io
-My Portfolio
+Web Stuff
